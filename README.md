@@ -74,6 +74,18 @@ The following features were engineered to improve predictive performance:
 <img width="455" height="268" alt="image" src="https://github.com/user-attachments/assets/28d9c5c0-ae85-42bb-9165-ac310c6d76d9" />
 
 
+**Model Performance**
+
+| Metric | Score |
+|----------|----------|
+| Accuracy | 61.12% |
+| Precision | 58.93% |
+| Recall | 47.25% |
+| F1 Score | 52.45% |
+
+**Cross Validation**
+
+5-Fold Stratified Cross Validation was performed to evaluate model stability and reduce overfitting.
 
 **Business Recommendations**
 
