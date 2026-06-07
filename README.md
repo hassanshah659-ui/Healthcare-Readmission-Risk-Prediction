@@ -2,16 +2,16 @@
 Machine Learning project predicting hospital readmission risk using healthcare data. Includes EDA, feature engineering, Random Forest modeling, cross-validation, hyperparameter tuning and business recommendations to support better patient care and reduce readmissions. 
 
 
-**Business Problem**
+# Business Problem
 
 Hospital readmissions increase healthcare costs and place additional pressure on hospital resources predicting readmission risk can help improve
 patient care and reduce avoidable readmissions.
 
-**Objective**
+# **Objective**
 
 Build a machine learning model to predict whether a patient is likely to be readmitted using healthcare and hospital visit data.
 
-**Methodology**
+# **Methodology**
 
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
@@ -21,7 +21,7 @@ Build a machine learning model to predict whether a patient is likely to be read
 6. Hyperparameter Tuning
 7. Model Evaluation
 
-**Tools**
+# **Tools**
 
 - Python
 - Pandas
@@ -32,7 +32,7 @@ Build a machine learning model to predict whether a patient is likely to be read
 - Google Colab
 
 
-**Key Insights**
+# **Key Insights**
 
 - Patient utilization score was the strongest predictor of readmission.
 - Previous inpatient admissions significantly increased readmission risk.
@@ -40,7 +40,7 @@ Build a machine learning model to predict whether a patient is likely to be read
 - Patients with multiple diagnoses were more likely to be readmitted.
 - Length of hospital stay showed a moderate impact on readmission outcomes.
 
-**Feature Engineering**
+# **Feature Engineering**
 
 The following features were engineered to improve predictive performance:
 
