@@ -96,3 +96,23 @@ The following features were engineered to improve predictive performance:
 - Increase post-discharge follow-up for high-risk patients.
 
 
+## Repository Structure
+
+Healthcare-Readmission-Risk-Prediction/
+
+├── data/
+│   └── hospital_readmission.csv
+
+├── notebooks/
+│   └── Python_Code/
+│       └── hospital_readmission.ipynb
+
+├── images/
+│   ├── target_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── confusion_matrix.png
+│   └── feature_importance.png
+
+└── README.md
+
+
